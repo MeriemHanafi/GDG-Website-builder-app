@@ -3,7 +3,7 @@
 import { motion } from 'framer-motion';
 import { useRouter, usePathname } from 'next/navigation';
 import { useEffect, useState } from 'react';
-import Link from 'next/link';
+
 
 
 const colors = {
