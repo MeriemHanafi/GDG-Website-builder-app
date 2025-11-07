@@ -55,6 +55,3 @@ Command	Description
 npm run dev	Start the development server
 npm run build	Build the production version
 npm run start	Run the production build locally
-
-t:3000 and start building 🎨
-Happy coding!
